@@ -1,0 +1,1 @@
+A calculator that calculates the Area of a Rectangle, Circle and Triangle.
